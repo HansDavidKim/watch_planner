@@ -1,0 +1,1 @@
+### Galaxy Watch 6 Planner - Based on Flutter SDK
